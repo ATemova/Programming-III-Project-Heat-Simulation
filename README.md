@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-red?style=flat-square&logo=java" />
-  <img src="https://img.shields.io/badge/Concept-Parallel%20Computing-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Concept-Parallel%20Computing-yellow?style=flat-square" />
   <img src="https://img.shields.io/badge/Concept-Distributed%20Systems-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/Model-Discrete%20Simulation-informational?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
