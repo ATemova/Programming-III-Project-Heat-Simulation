@@ -7,7 +7,6 @@
 </p>
 
 # 🔥 2D Heat Distribution Simulation  
-### Programming III Project  
 
 ## 📖 Project Overview
 
