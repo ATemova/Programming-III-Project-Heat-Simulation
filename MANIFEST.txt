@@ -1,0 +1,32 @@
+Heat Simulation v1.0.0 delta — copy over the repo root
+
+ADDED / MODIFIED:
+  A	.github/workflows/ci.yml
+  A	.gitignore
+  A	CHANGELOG.md
+  A	LICENSE
+  M	README.md
+  A	RELEASE_NOTES.md
+  A	docs/screenshot.png
+  A	pom.xml
+  A	src/main/java/heatsim/Benchmark.java
+  A	src/main/java/heatsim/DistributedSolver.java
+  A	src/main/java/heatsim/Grid.java
+  A	src/main/java/heatsim/HeatView.java
+  A	src/main/java/heatsim/Kernel.java
+  A	src/main/java/heatsim/Main.java
+  A	src/main/java/heatsim/ParallelSolver.java
+  A	src/main/java/heatsim/SequentialSolver.java
+  A	src/main/java/heatsim/Simulation.java
+  A	src/main/java/heatsim/Solver.java
+  A	src/main/java/heatsim/Worker.java
+  A	src/main/java/heatsim/WorkerImpl.java
+  A	src/test/java/heatsim/SimulationTest.java
+
+DELETED (whole folders):
+  Final Project - Anastasija Temova/
+  Heat Simulator - Anastasija Temova/
+  HeatSimulation/
+  HeatSimulation_2ndVr/
+  hsv3/
+  version4/
